@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMDB top 10</string>
+    <string name="top_10_movies">Top 10 Movies</string>
+    <string name="action_search">search</string>
+    <string name="fakeTitle">title</string>
+    <string name="fakerating">9.9</string>
+    <string name="home_screen_search_view_hint">Enter movie\'s name...</string>
+</resources>
